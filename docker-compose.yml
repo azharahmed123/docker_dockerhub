@@ -1,0 +1,7 @@
+version: '3'
+services:
+  myproject:
+    build: .
+    ports: 
+        - 3005:3004
+ 
